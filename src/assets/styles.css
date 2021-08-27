@@ -129,3 +129,8 @@ a .fa {
         max-width: 100%;
     }
 }
+
+div.mdContentDetails {
+    text-align: justify;
+    text-justify: inter-word;
+}
