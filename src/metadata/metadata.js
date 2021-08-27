@@ -29,6 +29,9 @@ module.exports = {
       title: 'University of Bristol',
       duration: 'September 2017 - July 2021',
       /* badges: ['tragedy', 'philosophy', 'death'], */
+      degree: 'Master of Engineering in Electrical & Electronic Engineering',
+      class: '1st Class Honours (74%)',
+      thesis: 'Thesis title: "A novel make-up gain stage for the software-based Moog 4-pole audio filter" (Achieved 72%)',
       contents: `
 * Projects: loudness-restoring audio plugin based on ITU-R BS.1770, Rubik's Cube solving robot, FPGA peak byte generator/detector, DSP-based Goertzel algorithm implementation, embedded SoC/bridge design, LDPC coding system simulation, real-time autonomous robot programming
 * Units: Digital/Analogue Electronics & Filters, Embedded Real-Time & VLSI System Designs, Networking Protocols & Applications, Mobile & Coding Communications, Power & Energy Electronics, Audio & Image Processing
