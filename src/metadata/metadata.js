@@ -24,7 +24,7 @@ module.exports = {
     ['Literature', '++++'],
     ['Influence', '++++'],
   ],
-  plays: [
+  education: [
     {
       title: 'University of Bristol',
       duration: 'September 2017 - July 2021',
