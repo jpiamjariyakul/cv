@@ -33,6 +33,26 @@
         </div>
     </div>
 
+    <h2>Education</h2>
+    {{#each education}}
+    <div class="card mb-4">
+        <div class="card-body">
+            <h3>{{ title }}</h3>
+            <p class="text-muted">{{ duration }}</p>
+
+            {{{markdown contents }}}
+            {% comment %}
+            <div>
+                {{#each badges }}
+                <span class="badge badge-primary">{{ this }}</span>
+                {{/each}}
+            </div>
+            {% endcomment %}
+        </div>
+    </div>
+    {{/each}}
+    <!-- p>King Edward VI Grammar School in Stratford-upon-Avon [1571 - 1578]</p -->
+
     <h3 class="screen">Skills</h3>
     <div class="row mb-4">
         {{#each skills}}
@@ -45,12 +65,12 @@
         {{/each}}
     </div>
 
-    <p>
+    <!--p>
         English poet, playwright and actor, widely regarded as the greatest writer in the English language
         and the world's pre-eminent dramatist. Often called England's national poet and the "Bard of Avon".
         My extant work is including collaborations, consist of approximately 38 plays, 154 sonnets,
         two long narrative poems and a few other verses, some of uncertain authorship.
-    </p>
+    </p -->
 
     <h2>Professional Experience</h2>
     {{#each plays}}
@@ -69,9 +89,6 @@
         </div>
     </div>
     {{/each}}
-
-    <h2>Education</h2>
-    <p>King Edward VI Grammar School in Stratford-upon-Avon [1571 - 1578]</p>
 
     <h2>Additional Experience</h2>
 

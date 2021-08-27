@@ -1,13 +1,14 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Jay Piamjariyakul, MEng',
+  title: 'Electrical/Electronic Engineer, Composer/Producer, Arts-in-STEM Activist',
   facts: {
-    'Residence': 'London',
-    'Homepage': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <span class="print">https://en.wikipedia.org/wiki/William_Shakespeare</span>
-                  <span class="screen">wiki</span>
+    'Residence':  'Cambridge',
+    'Alma Mater': 'University of Bristol',
+    'Homepage':   `<a href="https://jpiamjariyakul.github.io">
+                  <span class="print">https://jpiamjariyakul.github.io</span>
+                  <span class="screen">Personal Website</span>
                 </a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com">wil64@yahoo.com</a>'
+    'Email': '<a href="mailto:j.piamjariyakul@outlook.com">j.piamjariyakul@outlook.com</a>'
   },
   skills: [
     ['Comedy', '++++'],
@@ -22,6 +23,18 @@ module.exports = {
     ['Directing', '+++'],
     ['Literature', '++++'],
     ['Influence', '++++'],
+  ],
+  plays: [
+    {
+      title: 'University of Bristol',
+      duration: 'September 2017 - July 2021',
+      /* badges: ['tragedy', 'philosophy', 'death'], */
+      contents: `
+* Projects: loudness-restoring audio plugin based on ITU-R BS.1770, Rubik's Cube solving robot, FPGA peak byte generator/detector, DSP-based Goertzel algorithm implementation, embedded SoC/bridge design, LDPC coding system simulation, real-time autonomous robot programming
+* Units: Digital/Analogue Electronics & Filters, Embedded Real-Time & VLSI System Designs, Networking Protocols & Applications, Mobile & Coding Communications, Power & Energy Electronics, Audio & Image Processing
+* Achieved 70% in First Year, 70% in Second Year, 74% in Third Year, 75% in Fourth Year
+`
+    }
   ],
   plays: [
     {
