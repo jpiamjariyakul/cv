@@ -129,3 +129,8 @@ a .fa {
         max-width: 100%;
     }
 }
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
