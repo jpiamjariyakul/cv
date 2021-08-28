@@ -10,6 +10,7 @@ module.exports = {
                 </a>`,
     'Email': '<a href="mailto:j.piamjariyakul@outlook.com">j.piamjariyakul@outlook.com</a>'
   },
+  /*
   skills: [
     ['Comedy', '++++'],
     ['Love', '++++'],
@@ -23,7 +24,7 @@ module.exports = {
     ['Directing', '+++'],
     ['Literature', '++++'],
     ['Influence', '++++'],
-  ],
+  ],*/
   education: [
     {
       title: 'University of Bristol',
