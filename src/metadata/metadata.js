@@ -34,10 +34,22 @@ module.exports = {
       thesis: 'Thesis title: "A novel make-up gain stage for the software-based Moog 4-pole audio filter" (Achieved 72%)',
       contents: `
 * Projects: loudness-restoring audio plugin based on ITU-R BS.1770, Rubik's Cube solving robot, FPGA peak byte generator/detector, DSP-based Goertzel algorithm implementation, embedded SoC/bridge design, LDPC coding system simulation, real-time autonomous robot programming
-* Units: Digital/Analogue Electronics & Filters, Embedded Real-Time & VLSI System Designs, Networking Protocols & Applications, Mobile & Coding Communications, Power & Energy Electronics, Audio & Image Processing
+* Units: Digital/Analogue Electronics & Filters, Embedded Real-Time & VLSI System Designs, Networking Protocols & Applications, Mobile Communications, Sustainable Power Engineering, Audio & Image Processing
 * Achieved 70% in First Year, 70% in Second Year, 74% in Third Year, 75% in Fourth Year
 `
-    }
+    },
+    {
+      title: 'Strathallan School',
+      duration: 'September 2012 - June 2017',
+      /* badges: ['tragedy', 'philosophy', 'death'], */
+      degree: 'Perth, Scotland',
+      /*class: '1st Class Honours (74%)',*/
+      /*thesis: 'Thesis title: "A novel make-up gain stage for the software-based Moog 4-pole audio filter" (Achieved 72%)',*/
+      contents: `
+* A-Levels: Mathematics, Physics, Computer Science (ABB respectively)
+* 9 GCSEs including: A* in Mathematics and Computing, A in Triple Sciences, and B in English
+`
+    },
   ],
   plays: [
     {
