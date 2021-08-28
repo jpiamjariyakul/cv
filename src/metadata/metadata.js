@@ -2,13 +2,13 @@ module.exports = {
   name: 'Jay Piamjariyakul, MEng',
   title: 'Electrical/Electronic Engineer, Composer/Producer, Arts-in-STEM Activist',
   facts: {
-    'Residence':  'Cambridge',
-    'Alma Mater': 'University of Bristol',
-    'Homepage':   `<a href="https://jpiamjariyakul.github.io">
+    'LinkedIn': 'linkedin.com/in/jay-piamjariyakul-63ba11158/',
+    /*'Homepage':   `<a href="https://jpiamjariyakul.github.io">
                   <span class="print">https://jpiamjariyakul.github.io</span>
                   <span class="screen">Personal Website</span>
-                </a>`,
-    'Email': '<a href="mailto:j.piamjariyakul@outlook.com">j.piamjariyakul@outlook.com</a>'
+                </a>`,*/
+    'Email': '<a href="mailto:j.piamjariyakul@outlook.com">j.piamjariyakul@outlook.com</a>',
+    'Phone':  '+44-7380-217-217'
   },
   /*
   skills: [
