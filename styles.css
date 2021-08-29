@@ -1,6 +1,6 @@
 @media print {
     body {
-        font-size: 19px;
+        font-size:18px;
     }
 
     .screen {
@@ -39,10 +39,11 @@
             padding: 32px;
         }
     }
-
+    /*
     h1, h2, h3, h4 {
         font-weight: 300;
     }
+    */
 
     h2 {
         margin-top: 2rem;
@@ -67,6 +68,11 @@ a .fa {
     font-weight: normal;
     letter-spacing: 0.05rem;
 }
+
+h1, h2, h3, h4 {
+    font-weight: 400;
+}
+
 
 @media print {
     .col-print-1 {
